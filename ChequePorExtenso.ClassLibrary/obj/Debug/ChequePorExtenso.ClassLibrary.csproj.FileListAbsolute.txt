@@ -1,0 +1,11 @@
+C:\Users\Arkhandyr\Source\Repos\Cheque-por-Extenso\ChequePorExtenso.ClassLibrary\bin\Debug\ChequePorExtenso.ClassLibrary.dll
+C:\Users\Arkhandyr\Source\Repos\Cheque-por-Extenso\ChequePorExtenso.ClassLibrary\bin\Debug\ChequePorExtenso.ClassLibrary.pdb
+C:\Users\Arkhandyr\Source\Repos\Cheque-por-Extenso\ChequePorExtenso.ClassLibrary\obj\Debug\ChequePorExtenso.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Arkhandyr\Source\Repos\Cheque-por-Extenso\ChequePorExtenso.ClassLibrary\obj\Debug\ChequePorExtenso.ClassLibrary.dll
+C:\Users\Arkhandyr\Source\Repos\Cheque-por-Extenso\ChequePorExtenso.ClassLibrary\obj\Debug\ChequePorExtenso.ClassLibrary.pdb
+C:\Users\Arkhandyr\source\repos\ChequePorExtenso\ChequePorExtenso.ClassLibrary\bin\Debug\ChequePorExtenso.ClassLibrary.dll
+C:\Users\Arkhandyr\source\repos\ChequePorExtenso\ChequePorExtenso.ClassLibrary\bin\Debug\ChequePorExtenso.ClassLibrary.pdb
+C:\Users\Arkhandyr\source\repos\ChequePorExtenso\ChequePorExtenso.ClassLibrary\obj\Debug\ChequePorExtenso.ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Arkhandyr\source\repos\ChequePorExtenso\ChequePorExtenso.ClassLibrary\obj\Debug\ChequePorExtenso.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Arkhandyr\source\repos\ChequePorExtenso\ChequePorExtenso.ClassLibrary\obj\Debug\ChequePorExtenso.ClassLibrary.dll
+C:\Users\Arkhandyr\source\repos\ChequePorExtenso\ChequePorExtenso.ClassLibrary\obj\Debug\ChequePorExtenso.ClassLibrary.pdb
